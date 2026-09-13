@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "portfolio-risk-tools": {
+      "command": "python",
+      "args": ["analytics/mcp_server.py"]
+    }
+  }
+}
