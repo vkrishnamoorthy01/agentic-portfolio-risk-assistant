@@ -16,6 +16,8 @@ ENV/
 .env
 .env.*
 !.env.example
+How_to_run_locally_not_for_GitHub.md
+defense_doc.pdf
 
 # Logs
 *.log
